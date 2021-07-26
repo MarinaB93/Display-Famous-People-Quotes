@@ -1,0 +1,26 @@
+body {
+    background-repeat: no-repeat;
+    background-size: 100vw;
+}
+
+div {
+    margin: 200px;
+}
+
+p {
+    text-align: center;
+    font-size: 50px;
+    color: #2a2dd4;
+    font-weight: 700;
+}
+
+#btn {
+    width: 220px;
+    height: 40px;
+    margin: auto;
+    display: block;
+    border-radius: 15px;
+    background-color: red;
+    border: #bde8cd;
+    color: #bde8cd;
+}
